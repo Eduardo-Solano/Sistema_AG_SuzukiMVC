@@ -211,3 +211,7 @@ Para ver el funcionamiento del Sistema abre el siguiente link :
 Si quieres aprender a utilizar el sistema, abajo te dejo un enlace de drive para descargar el manual de usuario:
 
 -- Link
+
+## Autores
+- *Eduardo Solano Ramos*- Contacto: [https://github.com/Eduardo-Solano].
+- *Jesus Abraham Mendoza Chavez*-Contacto: [https://github.com/Jesus18902].
