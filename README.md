@@ -206,11 +206,11 @@ Ahora solo queda ejecutar dando clic en el Rayito que aparece en nuestra barra d
 ### Funcionamiento
 Para ver el funcionamiento del Sistema abre el siguiente link :
 
---Link
+- Link: https://drive.google.com/file/d/1y7RkRlhrkUplVHaDUf1fAtxncJt9Xi1E/view?usp=drivesdk
 
 Si quieres aprender a utilizar el sistema, abajo te dejo un enlace de drive para descargar el manual de usuario:
 
--- Link
+- Link: https://drive.google.com/file/d/14i642m3BXu6k2ReqTszyhjqQgVNKNa1p/view?usp=drivesdk 
 
 ## Autores
 - *Eduardo Solano Ramos*- Contacto: [https://github.com/Eduardo-Solano].
