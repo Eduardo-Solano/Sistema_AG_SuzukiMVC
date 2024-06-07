@@ -7,7 +7,7 @@ Dicho sistema simula la gestion de ventas, clientes, usuarios; esta pensado en q
 ## Caracteristicas
 - Las caracteristicas principales del Sistema es gestionar las ventas realizadas en una agencia de motocicleta.
 - De igual forma sirve para llevar un registro detallado de la agencia en la que se implemente.
-
+                
 El sistema realiza lo siguiente:
 
 - Ventas de motocicletas y gestion de las mismas.
